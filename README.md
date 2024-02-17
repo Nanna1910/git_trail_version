@@ -1,1 +1,1 @@
-# git_trail_version
+This is the first git repository
